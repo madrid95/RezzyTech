@@ -13,5 +13,5 @@ Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de 
 | Wednesday | 8:30am - 6:00pm |
 | Thursday  | 8:30am - 6:00pm |
 | Friday    | 8:30am - 6:00pm |
-| Saturday  | Closed          |
+| Saturday  | 8:30am - 6:00pm |
 | Sunday    | Closed          |
