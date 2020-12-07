@@ -16,8 +16,7 @@ footer:
 seo:
   meta_og_title: "RezzyTech"
   meta_og_type: "website"
-  meta_og_url: "https://jekyll-serif-theme.netlify.app"
-  meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
+  meta_og_url: "https://rezzytech.com"
   meta_og_description: "RezzyTech, Innovation in technology"
   meta_twitter_card: "summary"
 
@@ -29,8 +28,7 @@ collections:
 
 sass:
   indentWidth: 4
-  style: compact # possible values: nested expanded compact compressed
-  precision: 10
+  style: compact
 
 plugins:
   - jekyll-environment-variables
