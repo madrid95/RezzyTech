@@ -10,6 +10,8 @@ Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
 de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
 crimen habet Priamum nec.
 
+![RezzyShare](/images/rezzyShare.jpg)
+
 ## Ne verba patulosque numen vix libet
 
 Agitabitur signa lympha; **non lacunae** mox cum tumulis quoque triste dictis.
