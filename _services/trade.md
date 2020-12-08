@@ -1,5 +1,5 @@
 ---
-title: "Rezzy"
+title: "RezzyTrade"
 date: 2018-11-28T15:15:26+10:00
 featured: true
 weight: 3
@@ -15,6 +15,8 @@ petunt dempserat dixisse, pro raptae aut male?
 - Dente reponere dixere referre excessitque seque
 - Tacui si cui inde haec ubi trepidas
 - Coniunx nulla aut
+
+![RezzyTrade](/images/ai-in-stock-market.jpeg)
 
 ## Geniti facinus praeruptam atris ab manus in
 
