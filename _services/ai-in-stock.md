@@ -1,5 +1,5 @@
 ---
-title: "aiRezzy"
+title: "rezzyAI"
 date: 2018-11-28T15:14:54+10:00
 featured: true
 weight: 5
@@ -10,7 +10,7 @@ Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
 de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
 crimen habet Priamum nec.
 
-![aiRezzy](/images/aiRezzy.jpeg)
+![rezzyAI](/images/aiRezzy.jpeg)
 
 ## Ne verba patulosque numen vix libet
 
